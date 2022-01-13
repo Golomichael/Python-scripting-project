@@ -1,4 +1,4 @@
-import json 
+import json
 #Read a json file
 '''
 req_file="myjson.json"

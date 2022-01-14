@@ -10,7 +10,7 @@ print(json.load(fo))
 fo.close()
 '''
 #Write data(dictionary data) into a json file
-my_dict={'Name':'Narendra','skills':['Python','shell','yaml','AWS']}
+my_dict={'Name':'Mike','skills':['Python','shell','yaml','AWS']}
 
 req_file="myinfo.json"
 
